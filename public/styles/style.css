@@ -131,14 +131,3 @@ legend, button::-moz-focus-inner, input::-moz-focus-inner {
 .container {
   max-width: 900px;
   margin: 0 auto; }
-
-body {
-  background: tomato;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  font-size: 8rem;
-  color: white; }
